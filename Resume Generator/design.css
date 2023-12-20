@@ -1,0 +1,37 @@
+textarea {
+    width: -webkit-fill-available;
+}
+
+.form-group {
+    margin: 1px;
+    margin-top: 5px;
+}
+
+.Headings {
+    background-color: #323232;
+    border-radius: 3px;
+    padding: 0.6rem;
+    text-align: center;
+}
+
+#cv-template {
+    display: none;
+}
+
+
+/* Templates Designing */
+
+.my-image {
+    width: 50%;
+    border: radius 10px;
+    border: 5px solid black;
+}
+
+.background {
+    background-color: #8670e7;
+}
+
+.Links {
+    text-decoration: none;
+    color: black;
+}
